@@ -1,1 +1,1 @@
-The code in #TODOs are done by me.
+The code in #TODOs in ipynb file are done by me.
