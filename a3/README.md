@@ -1,3 +1,1 @@
-## Assignment 3
-
-*50 points*
+The code in #TODOs in ipynb file are done by me.
