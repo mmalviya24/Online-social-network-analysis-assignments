@@ -1,1 +1,1 @@
-This repository contains the assignments done for CS579 : Online social network analysis
+This repository contains the assignments done for Online social network analysis class.
